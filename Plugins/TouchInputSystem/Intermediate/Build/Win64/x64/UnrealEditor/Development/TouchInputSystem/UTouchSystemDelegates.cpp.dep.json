@@ -1,0 +1,18 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "f:\\unrealprojects\\5.5\\skateproject\\plugins\\touchinputsystem\\source\\touchinputsystem\\common\\delegates\\utouchsystemdelegates.cpp",
+        "ProvidedModule": "",
+        "PCH": "f:\\unrealprojects\\5.5\\skateproject\\intermediate\\build\\win64\\x64\\skateprojecteditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.valexpapi.cpp20.inclorderunreal5_3.h.pch",
+        "Includes": [
+            "f:\\unrealprojects\\5.5\\skateproject\\plugins\\touchinputsystem\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\touchinputsystem\\definitions.touchinputsystem.h",
+            "f:\\unrealprojects\\5.5\\skateproject\\plugins\\touchinputsystem\\source\\touchinputsystem\\common\\delegates\\utouchsystemdelegates.h",
+            "f:\\unrealprojects\\5.5\\skateproject\\plugins\\touchinputsystem\\source\\touchinputsystem\\common\\data\\enumsstruct\\ftouchinputinfo.h",
+            "f:\\unrealprojects\\5.5\\skateproject\\plugins\\touchinputsystem\\source\\touchinputsystem\\common\\data\\enumsstruct\\etouchmode.h",
+            "f:\\unrealprojects\\5.5\\skateproject\\plugins\\touchinputsystem\\intermediate\\build\\win64\\unrealeditor\\inc\\touchinputsystem\\uht\\ftouchinputinfo.generated.h",
+            "f:\\unrealprojects\\5.5\\skateproject\\plugins\\touchinputsystem\\intermediate\\build\\win64\\unrealeditor\\inc\\touchinputsystem\\uht\\utouchsystemdelegates.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

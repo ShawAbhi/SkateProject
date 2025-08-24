@@ -1,0 +1,23 @@
+{
+	"RemapUnityFiles": 
+	{
+		"Module.TouchInputSystem.cpp.obj": [
+			"BaseTouchButton.gen.cpp.obj",
+			"ETouchMode.gen.cpp.obj",
+			"FInGameButtonData.gen.cpp.obj",
+			"FTouchInputInfo.gen.cpp.obj",
+			"TouchInputFunctions.gen.cpp.obj",
+			"TouchInputSystem.init.gen.cpp.obj",
+			"TouchJoystick.gen.cpp.obj",
+			"TouchPad.gen.cpp.obj",
+			"UTouchSystemDelegates.gen.cpp.obj",
+			"PerModuleInline.gen.cpp.obj",
+			"UTouchSystemDelegates.cpp.obj",
+			"TouchInputFunctions.cpp.obj",
+			"TouchInputSystem.cpp.obj",
+			"BaseTouchButton.cpp.obj",
+			"TouchJoystick.cpp.obj",
+			"TouchPad.cpp.obj"
+		]
+	}
+}

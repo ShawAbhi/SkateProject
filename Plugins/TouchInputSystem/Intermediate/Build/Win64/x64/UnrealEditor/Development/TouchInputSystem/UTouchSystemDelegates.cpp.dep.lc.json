@@ -1,0 +1,18 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "f:\\unrealnow\\git\\gamesystems\\plugins\\touchinputsystem\\source\\touchinputsystem\\common\\delegates\\utouchsystemdelegates.cpp",
+        "ProvidedModule": "",
+        "PCH": "f:\\unrealnow\\git\\gamesystems\\intermediate\\build\\win64\\x64\\gamesystemseditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.cpp20.inclorderunreal5_4.h.pch",
+        "Includes": [
+            "f:\\unrealnow\\git\\gamesystems\\plugins\\touchinputsystem\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\touchinputsystem\\definitions.touchinputsystem.h",
+            "f:\\unrealnow\\git\\gamesystems\\plugins\\touchinputsystem\\source\\touchinputsystem\\common\\delegates\\utouchsystemdelegates.h",
+            "f:\\unrealnow\\git\\gamesystems\\plugins\\touchinputsystem\\source\\touchinputsystem\\common\\data\\enumsstruct\\ftouchinputinfo.h",
+            "f:\\unrealnow\\git\\gamesystems\\plugins\\touchinputsystem\\source\\touchinputsystem\\common\\data\\enumsstruct\\etouchmode.h",
+            "f:\\unrealnow\\git\\gamesystems\\plugins\\touchinputsystem\\intermediate\\build\\win64\\unrealeditor\\inc\\touchinputsystem\\uht\\ftouchinputinfo.generated.h",
+            "f:\\unrealnow\\git\\gamesystems\\plugins\\touchinputsystem\\intermediate\\build\\win64\\unrealeditor\\inc\\touchinputsystem\\uht\\utouchsystemdelegates.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

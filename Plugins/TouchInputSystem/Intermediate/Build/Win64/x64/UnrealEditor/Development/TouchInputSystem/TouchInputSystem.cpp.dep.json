@@ -1,0 +1,14 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "f:\\unrealprojects\\5.5\\skateproject\\plugins\\touchinputsystem\\source\\touchinputsystem\\touchinputsystem.cpp",
+        "ProvidedModule": "",
+        "PCH": "f:\\unrealprojects\\5.5\\skateproject\\intermediate\\build\\win64\\x64\\skateprojecteditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.valexpapi.cpp20.inclorderunreal5_3.h.pch",
+        "Includes": [
+            "f:\\unrealprojects\\5.5\\skateproject\\plugins\\touchinputsystem\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\touchinputsystem\\definitions.touchinputsystem.h",
+            "f:\\unrealprojects\\5.5\\skateproject\\plugins\\touchinputsystem\\source\\touchinputsystem\\touchinputsystem.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}
