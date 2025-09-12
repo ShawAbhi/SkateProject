@@ -9,6 +9,12 @@
 !/*.uproject
 
 # Do not ignore source, config and plugins dirs.
+!/Source/
+!/Config/
+!/KeyTool/
+!/Plugins/
+!/Content/
+
 !/Source/**
 !/Config/**
 !/KeyTool/**
