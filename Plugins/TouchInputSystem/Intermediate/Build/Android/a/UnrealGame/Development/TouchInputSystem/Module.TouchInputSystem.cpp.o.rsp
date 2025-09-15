@@ -134,9 +134,9 @@
 -I"../Plugins/EnhancedInput/Intermediate/Build/Android/UnrealGame/Inc/EnhancedInput/UHT"
 -I"../Plugins/EnhancedInput/Source"
 -I"../Plugins/EnhancedInput/Source/EnhancedInput/Public"
--I"F:/UnrealProjects/5.5/SkateProject/Plugins/TouchInputSystem/Intermediate/Build/Android/UnrealGame/Inc/TouchInputSystem/UHT"
--I"F:/UnrealProjects/5.5/SkateProject/Plugins/TouchInputSystem/Source"
--I"F:/UnrealProjects/5.5/SkateProject/Intermediate/Build/Android/a/SkateProject/Development/Engine"
+-I"F:/UnrealNow/Git/SkateProject/Plugins/TouchInputSystem/Intermediate/Build/Android/UnrealGame/Inc/TouchInputSystem/UHT"
+-I"F:/UnrealNow/Git/SkateProject/Plugins/TouchInputSystem/Source"
+-I"F:/UnrealNow/Git/SkateProject/Intermediate/Build/Android/a/SkateProject/Development/Engine"
 -isystem"C:/Android/ndk/27.2.12479018/sources/android/native_app_glue"
 -isystem"C:/Android/ndk/27.2.12479018/sources/android/cpufeatures"
 -isystem"ThirdParty/GuidelinesSupportLibrary/GSL-1144/include"
@@ -198,7 +198,7 @@
 -fsigned-char
 --gcc-toolchain="C:/Android/ndk/27.2.12479018/toolchains/llvm/prebuilt/windows-x86_64"
 --sysroot="C:/Android/ndk/27.2.12479018/toolchains/llvm/prebuilt/windows-x86_64/sysroot"
- --target=aarch64-none-linux-android29 -DANDROID=1
+ --target=aarch64-none-linux-android35 -DANDROID=1
 -D__arm64__
 -DPLATFORM_ANDROID_ARM64=1
 -march=armv8-a
@@ -221,14 +221,14 @@
 -fno-short-enums
 -fforce-emit-vtables
 -D_FORTIFY_SOURCE=2
--DPLATFORM_USED_NDK_VERSION_INTEGER=29
+-DPLATFORM_USED_NDK_VERSION_INTEGER=35
 -DPLATFORM_64BITS=1
--include-pch "F:/UnrealProjects/5.5/SkateProject/Intermediate/Build/Android/a/SkateProject/Development/Engine/SharedPCH.Engine.Project.ValApi.ValExpApi.Cpp20.InclOrderUnreal5_3.h.gch"
--include "F:/UnrealProjects/5.5/SkateProject/Plugins/TouchInputSystem/Intermediate/Build/Android/a/UnrealGame/Development/TouchInputSystem/Definitions.TouchInputSystem.h"
+-include-pch "F:/UnrealNow/Git/SkateProject/Intermediate/Build/Android/a/SkateProject/Development/Engine/SharedPCH.Engine.Project.ValApi.ValExpApi.Cpp20.h.gch"
+-include "F:/UnrealNow/Git/SkateProject/Plugins/TouchInputSystem/Intermediate/Build/Android/a/UnrealGame/Development/TouchInputSystem/Definitions.TouchInputSystem.h"
 -x c++
 -std=c++20
 -Xclang -fno-pch-timestamp
 -fpch-validate-input-files-content
-"F:/UnrealProjects/5.5/SkateProject/Plugins/TouchInputSystem/Intermediate/Build/Android/a/UnrealGame/Development/TouchInputSystem/Module.TouchInputSystem.cpp"
--MD -MF"F:/UnrealProjects/5.5/SkateProject/Plugins/TouchInputSystem/Intermediate/Build/Android/a/UnrealGame/Development/TouchInputSystem/Module.TouchInputSystem.cpp.d"
--o "F:/UnrealProjects/5.5/SkateProject/Plugins/TouchInputSystem/Intermediate/Build/Android/a/UnrealGame/Development/TouchInputSystem/Module.TouchInputSystem.cpp.o"
+"F:/UnrealNow/Git/SkateProject/Plugins/TouchInputSystem/Intermediate/Build/Android/a/UnrealGame/Development/TouchInputSystem/Module.TouchInputSystem.cpp"
+-MD -MF"F:/UnrealNow/Git/SkateProject/Plugins/TouchInputSystem/Intermediate/Build/Android/a/UnrealGame/Development/TouchInputSystem/Module.TouchInputSystem.cpp.d"
+-o "F:/UnrealNow/Git/SkateProject/Plugins/TouchInputSystem/Intermediate/Build/Android/a/UnrealGame/Development/TouchInputSystem/Module.TouchInputSystem.cpp.o"
