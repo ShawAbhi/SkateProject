@@ -14,12 +14,14 @@
 !/KeyTool/
 !/Plugins/
 !/Content/
+!/Packages/
 
 !/Source/**
 !/Config/**
 !/KeyTool/**
 !/Plugins/**
 !/Content/**
+!/Packages/**
 
 # Visual Studio
 .vs
